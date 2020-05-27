@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: ATT&CK
 ---
 
 Another sample category page.
